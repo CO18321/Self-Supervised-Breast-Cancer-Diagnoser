@@ -11,7 +11,7 @@
   </tr>
   <tr>
     <td style="width:200px"><img src="images/Arendos.png"></td>
-    <td style="width:200px"><img src="images/fibroade.png"></td>
+    <td style="width:150px"><img src="images/fibroade.png"></td>
     <td style="width:200px"><img src="images/phyllode.png"></td>
 	<td style="width:200px"><img src="images/tubular.png"></td>
   </tr>
