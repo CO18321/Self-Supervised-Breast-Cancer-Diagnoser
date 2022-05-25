@@ -1,56 +1,51 @@
 # Self-Supervised-Breast-Cancer-Diagnoser
 
 ### Benign
-<div>
-    <div style="max-width:150px; display:inline-block">
-        <img src="images/Arendos.png">
-        <p style="text-align:center">Arendos</p>
-    </div>
-    <div style="max-width:150px; display:inline-block">
-        <img src="images/fibroade.png">
-        <p style="text-align:center">Fibroadenoma</p>
-    </div>
-    <div style="max-width:150px; display:inline-block">
-        <img src="images/phyllode.png">
-        <p style="text-align:center">Phyllodes Tumor</p>
-    </div>
-    <div style="max-width:150px; display:inline-block">
-        <img src="images/tubular.png">
-        <p style="text-align:center">Tubular Adenoma</p>
-    </div>
-</div>
 
-### Malignant
-<div>
-    <div style="max-width:150px; display:inline-block">
-        <img src="images/doctal.png">
-        <p style="text-align:center">Ductal Carcinoma</p>
-    </div>
-    <div style="max-width:150px; display:inline-block">
-        <img src="images/lobular.png">
-        <p style="text-align:center">Lobular Carcinoma</p>
-    </div>
-    <div style="max-width:150px; display:inline-block">
-        <img src="images/mucinous.png">
-        <p style="text-align:center">Mucinous Carcinoma</p>
-    </div>
-    <div style="max-width:150px; display:inline-block">
-        <img src="images/papillary.png">
-        <p style="text-align:center">Papillary Carcinoma</p>
-    </div>
-</div>
+<table>
+  <tr>
+    <td style="text-align:center">Arendos</td>
+    <td style="text-align:center">Fibroadenoma</td>
+	<td style="text-align:center">Phyllodes Tumor</td>
+    <td style="text-align:center">Tubular Adenoma</td>
+  </tr>
+  <tr>
+    <td style="width:200px"><img src="images/Arendos.png"></td>
+    <td style="width:200px"><img src="images/fibroade.png"></td>
+    <td style="width:200px"><img src="images/phyllode.png"></td>
+	<td style="width:200px"><img src="images/tubular.png"></td>
+  </tr>
+ </table>
 <br>
+### Malignant
+<table>
+  <tr>
+    <td style="text-align:center">Ductal Carcinoma</td>
+    <td style="text-align:center">Lobular Carcinoma</td>
+	<td style="text-align:center">Mucinous Carcinoma</td>
+    <td style="text-align:center">Papillary Carcinoma</td>
+  </tr>
+  <tr>
+    <td style="width:200px"><img src="images/doctal.png"></td>
+    <td style="width:200px"><img src="images/lobular.png"></td>
+    <td style="width:200px"><img src="images/mucinous.png"></td>
+	<td style="width:200px"><img src="images/papillary.png"></td>
+  </tr>
+ </table>
+<br>
+
 ### Results on BreakHis Dataset
-<div>
-    <div style="max-width:300px; display:inline-block">
-        <img src="images/8-way results.png">
-        <p style="text-align:center">8-way Classification</p>
-    </div>
-    <div style="max-width:300px; display:inline-block">
-        <img src="images/binary results.png">
-        <p style="text-align:center">Binary Classification</p>
-    </div>
-</div>
+<table>
+  <tr>
+    <td style="text-align:center">8-way Classification</td>
+    <td style="text-align:center">BInary Classification</td>
+  </tr>
+  <tr>
+    <td style="width:400px"><img src="images/8-way results.png"></td>
+    <td style="width:400px"><img src="images/binary results.png"></td>
+
+  </tr>
+ </table>
 
 
 
