@@ -16,7 +16,8 @@
 	<td style="width:200px"><img src="images/tubular.png"></td>
   </tr>
  </table>
-<br>
+</br>
+
 ### Malignant
 <table>
   <tr>
